@@ -10,3 +10,4 @@ Commit #8 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers.
 Commit #9 | Meme: To understand recursion, you must first understand recursion.
 Commit #10 | Meme: In case of fire: git commit, git push, leave building.
 Commit #11 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #12 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
