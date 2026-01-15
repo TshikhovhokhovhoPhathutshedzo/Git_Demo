@@ -86,3 +86,4 @@ Commit #84 | Meme: Real programmers count from 0.
 Commit #85 | Meme: To understand recursion, you must first understand recursion.
 Commit #86 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #87 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #88 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
