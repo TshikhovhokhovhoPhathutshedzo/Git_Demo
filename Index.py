@@ -212,3 +212,4 @@ Commit #210 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #211 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #212 | Meme: In case of fire: git commit, git push, leave building.
 Commit #213 | Meme: In case of fire: git commit, git push, leave building.
+Commit #214 | Meme: Why do Java developers wear glasses? Because they don't C#.
