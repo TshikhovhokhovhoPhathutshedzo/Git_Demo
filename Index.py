@@ -41,3 +41,4 @@ Commit #39 | Meme: There are 10 types of people: those who understand binary, an
 Commit #40 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #41 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #42 | Meme: In case of fire: git commit, git push, leave building.
+Commit #43 | Meme: There are 10 types of people: those who understand binary, and those who don't.
