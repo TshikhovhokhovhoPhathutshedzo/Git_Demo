@@ -146,3 +146,4 @@ Commit #144 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #145 | Meme: In case of fire: git commit, git push, leave building.
 Commit #146 | Meme: There's no place like 127.0.0.1
 Commit #147 | Meme: In case of fire: git commit, git push, leave building.
+Commit #148 | Meme: To understand recursion, you must first understand recursion.
