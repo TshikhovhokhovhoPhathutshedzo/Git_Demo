@@ -103,3 +103,4 @@ Commit #101 | Meme: Software and cathedrals are much the same – first we build
 Commit #102 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #103 | Meme: It's not a bug, it's an undocumented feature.
 Commit #104 | Meme: Real programmers count from 0.
+Commit #105 | Meme: In case of fire: git commit, git push, leave building.
