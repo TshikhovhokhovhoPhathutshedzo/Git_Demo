@@ -18,3 +18,4 @@ Commit #16 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #17 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #18 | Meme: There's no place like 127.0.0.1
 Commit #19 | Meme: Deleting code is better than writing code.
+Commit #20 | Meme: Deleting code is better than writing code.
