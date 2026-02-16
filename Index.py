@@ -405,3 +405,4 @@ Commit #403 | Meme: Real programmers count from 0.
 Commit #404 | Meme: Deleting code is better than writing code.
 Commit #405 | Meme: Deleting code is better than writing code.
 Commit #406 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #407 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
