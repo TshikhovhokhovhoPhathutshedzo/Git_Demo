@@ -270,3 +270,4 @@ Commit #268 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #269 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #270 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #271 | Meme: Deleting code is better than writing code.
+Commit #272 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
