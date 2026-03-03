@@ -242,3 +242,4 @@ Commit #240 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #241 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #242 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #243 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #244 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
