@@ -118,3 +118,4 @@ Commit #116 | Meme: In case of fire: git commit, git push, leave building.
 Commit #117 | Meme: Real programmers count from 0.
 Commit #118 | Meme: Deleting code is better than writing code.
 Commit #119 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #120 | Meme: Works on my machine! ¯\_(ツ)_/¯
