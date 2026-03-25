@@ -139,3 +139,4 @@ Commit #137 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #138 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #139 | Meme: Deleting code is better than writing code.
 Commit #140 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #141 | Meme: Why do Java developers wear glasses? Because they don't C#.
