@@ -128,3 +128,4 @@ Commit #126 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #127 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #128 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #129 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #130 | Meme: Why do Java developers wear glasses? Because they don't C#.
