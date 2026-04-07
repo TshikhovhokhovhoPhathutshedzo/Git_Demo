@@ -60,3 +60,4 @@ Commit #58 | Meme: Software and cathedrals are much the same – first we build 
 Commit #59 | Meme: It's not a bug, it's an undocumented feature.
 Commit #60 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #61 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #62 | Meme: Hide and seek champion since 1958: ';' in C/C++
