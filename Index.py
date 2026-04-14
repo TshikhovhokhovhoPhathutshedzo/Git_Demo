@@ -324,3 +324,4 @@ Commit #322 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #323 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #324 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #325 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #326 | Meme: Hide and seek champion since 1958: ';' in C/C++
