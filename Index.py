@@ -62,3 +62,4 @@ Commit #60 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #61 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #62 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #63 | Meme: There's no place like 127.0.0.1
+Commit #64 | Meme: Real programmers count from 0.
