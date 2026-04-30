@@ -151,3 +151,4 @@ Commit #149 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #150 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #151 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #152 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #153 | Meme: Hide and seek champion since 1958: ';' in C/C++
