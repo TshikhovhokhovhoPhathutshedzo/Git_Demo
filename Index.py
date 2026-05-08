@@ -345,3 +345,4 @@ Commit #343 | Meme: Deleting code is better than writing code.
 Commit #344 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #345 | Meme: In case of fire: git commit, git push, leave building.
 Commit #346 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #347 | Meme: In case of fire: git commit, git push, leave building.
