@@ -286,3 +286,4 @@ Commit #284 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #285 | Meme: Real programmers count from 0.
 Commit #286 | Meme: Real programmers count from 0.
 Commit #287 | Meme: Real programmers count from 0.
+Commit #288 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
