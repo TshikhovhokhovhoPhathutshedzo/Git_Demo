@@ -37,3 +37,4 @@ Commit #35 | Meme: There's no place like 127.0.0.1
 Commit #36 | Meme: Deleting code is better than writing code.
 Commit #37 | Meme: It's not a bug, it's an undocumented feature.
 Commit #38 | Meme: It's not a bug, it's an undocumented feature.
+Commit #39 | Meme: There are 10 types of people: those who understand binary, and those who don't.
