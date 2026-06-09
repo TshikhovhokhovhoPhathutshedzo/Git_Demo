@@ -220,3 +220,4 @@ Commit #218 | Meme: Deleting code is better than writing code.
 Commit #219 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #220 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #221 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #222 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
