@@ -223,3 +223,4 @@ Commit #221 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #222 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #223 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #224 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #225 | Meme: Deleting code is better than writing code.
