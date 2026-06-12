@@ -65,3 +65,4 @@ Commit #63 | Meme: There's no place like 127.0.0.1
 Commit #64 | Meme: Real programmers count from 0.
 Commit #65 | Meme: Real programmers count from 0.
 Commit #66 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #67 | Meme: Hide and seek champion since 1958: ';' in C/C++
