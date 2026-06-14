@@ -498,3 +498,4 @@ Commit #496 | Meme: There are 10 types of people: those who understand binary, a
 Commit #497 | Meme: Deleting code is better than writing code.
 Commit #498 | Meme: It's not a bug, it's an undocumented feature.
 Commit #499 | Meme: Deleting code is better than writing code.
+Commit #500 | Meme: There's no place like 127.0.0.1
