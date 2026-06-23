@@ -74,3 +74,4 @@ Commit #72 | Meme: To understand recursion, you must first understand recursion.
 Commit #73 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #74 | Meme: To understand recursion, you must first understand recursion.
 Commit #75 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #76 | Meme: Deleting code is better than writing code.
