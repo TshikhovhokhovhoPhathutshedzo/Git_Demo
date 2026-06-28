@@ -110,3 +110,4 @@ Commit #108 | Meme: There's no place like 127.0.0.1
 Commit #109 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #110 | Meme: In case of fire: git commit, git push, leave building.
 Commit #111 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #112 | Meme: Why do Java developers wear glasses? Because they don't C#.
