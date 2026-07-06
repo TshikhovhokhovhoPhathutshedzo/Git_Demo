@@ -299,3 +299,4 @@ Commit #297 | Meme: Software and cathedrals are much the same – first we build
 Commit #298 | Meme: There's no place like 127.0.0.1
 Commit #299 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #300 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #301 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
