@@ -119,3 +119,4 @@ Commit #117 | Meme: Real programmers count from 0.
 Commit #118 | Meme: Deleting code is better than writing code.
 Commit #119 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #120 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #121 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
