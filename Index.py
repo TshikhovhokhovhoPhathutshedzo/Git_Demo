@@ -338,3 +338,4 @@ Commit #336 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #337 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #338 | Meme: Deleting code is better than writing code.
 Commit #339 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #340 | Meme: There's no place like 127.0.0.1
