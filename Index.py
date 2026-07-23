@@ -491,3 +491,4 @@ Commit #489 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #490 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #491 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #492 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #493 | Meme: There's no place like 127.0.0.1
