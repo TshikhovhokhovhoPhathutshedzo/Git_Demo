@@ -358,3 +358,4 @@ Commit #356 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #357 | Meme: It's not a bug, it's an undocumented feature.
 Commit #358 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #359 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #360 | Meme: Why do Java developers wear glasses? Because they don't C#.
