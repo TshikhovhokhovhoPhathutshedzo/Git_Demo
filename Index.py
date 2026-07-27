@@ -4,3 +4,4 @@ Commit #2 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #4 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #5 | Meme: Deleting code is better than writing code.
+Commit #6 | Meme: There's no place like 127.0.0.1
