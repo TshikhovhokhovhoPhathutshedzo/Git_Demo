@@ -390,3 +390,4 @@ Commit #388 | Meme: Deleting code is better than writing code.
 Commit #389 | Meme: Deleting code is better than writing code.
 Commit #390 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #391 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #392 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
