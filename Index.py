@@ -231,3 +231,4 @@ Commit #229 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #230 | Meme: There's no place like 127.0.0.1
 Commit #231 | Meme: It's not a bug, it's an undocumented feature.
 Commit #232 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #233 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
