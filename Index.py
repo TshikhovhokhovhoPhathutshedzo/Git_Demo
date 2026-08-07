@@ -474,3 +474,4 @@ Commit #472 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #473 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #474 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #475 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #476 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
