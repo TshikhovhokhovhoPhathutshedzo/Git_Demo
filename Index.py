@@ -53,3 +53,4 @@ Commit #51 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #52 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #53 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #54 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #55 | Meme: Why do Java developers wear glasses? Because they don't C#.
