@@ -199,3 +199,4 @@ Commit #197 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #198 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #199 | Meme: In case of fire: git commit, git push, leave building.
 Commit #200 | Meme: It's not a bug, it's an undocumented feature.
+Commit #201 | Meme: Real programmers count from 0.
