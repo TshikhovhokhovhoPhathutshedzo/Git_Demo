@@ -240,3 +240,4 @@ Commit #238 | Meme: There are 10 types of people: those who understand binary, a
 Commit #239 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #240 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #241 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #242 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
