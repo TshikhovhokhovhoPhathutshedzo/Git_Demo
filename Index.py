@@ -351,3 +351,4 @@ Commit #349 | Meme: It's not a bug, it's an undocumented feature.
 Commit #350 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #351 | Meme: Deleting code is better than writing code.
 Commit #352 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #353 | Meme: Deleting code is better than writing code.
