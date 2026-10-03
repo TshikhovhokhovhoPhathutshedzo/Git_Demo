@@ -153,3 +153,4 @@ Commit #151 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #152 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #153 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #154 | Meme: Deleting code is better than writing code.
+Commit #155 | Meme: There are 10 types of people: those who understand binary, and those who don't.
