@@ -295,3 +295,4 @@ Commit #293 | Meme: There are 10 types of people: those who understand binary, a
 Commit #294 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #295 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #296 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #297 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
