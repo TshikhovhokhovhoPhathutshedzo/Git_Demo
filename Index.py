@@ -176,3 +176,4 @@ Commit #174 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #175 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #176 | Meme: It's not a bug, it's an undocumented feature.
 Commit #177 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #178 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
