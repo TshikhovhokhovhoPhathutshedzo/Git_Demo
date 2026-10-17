@@ -26,3 +26,4 @@ Commit #24 | Meme: There's no place like 127.0.0.1
 Commit #25 | Meme: Deleting code is better than writing code.
 Commit #26 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #27 | Meme: There's no place like 127.0.0.1
+Commit #28 | Meme: Deleting code is better than writing code.
