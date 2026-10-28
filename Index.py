@@ -371,3 +371,4 @@ Commit #369 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #370 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #371 | Meme: Deleting code is better than writing code.
 Commit #372 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #373 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
