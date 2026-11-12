@@ -70,3 +70,4 @@ Commit #68 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #69 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #70 | Meme: Deleting code is better than writing code.
 Commit #71 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #72 | Meme: To understand recursion, you must first understand recursion.
